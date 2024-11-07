@@ -295,23 +295,24 @@ above the parallel. Based on the output, the scale is a good measure of
 break up concern as this one factor explained 83.58% of the variance in
 the items, and the factor loadings are all above 0.4 (.82-.94). The item
 with highest factor loading is “I worry that my romantic/sexual partner
-might leave me.” \# Q3: Pick another subscale from FSMI. Test
-reliability and factor analysis. Answer all the questions above. Answer:
-The output below is based on the subscale of affiliation (exclusion
-concern). The Cronbach’s alpha of this subscale is 0.90. Since the
-Cronbach’s alpha of the scale and that of each separate items is above
-0.8, it indicates that the reliability of the measure of status seeking
-is good. One factor is identified from this subscale. This is concluded
-because there’s only one data point before the flattened point and that
-there is only one data point have an eigensvalue above 1 and above the
-parallel. Based on the output, the scale is a good measure of exclusion
-concern as this one factor explained 67.22% of the variance in the
-items, and the factor loadings are all above 0.4 (.69-.83). The item
-with highest factor loading is “I often think about whether other people
-accept me.
+might leave me.”
 
-\#Reliability test and factor analysis for affiliation (exclusion
-concern)
+# Q3: Pick another subscale from FSMI. Test reliability and factor analysis. Answer all the questions above.
+
+Answer: The output below is based on the subscale of affiliation
+(exclusion concern). The Cronbach’s alpha of this subscale is 0.90.
+Since the Cronbach’s alpha of the scale and that of each separate items
+is above 0.8, it indicates that the reliability of the measure of status
+seeking is good. One factor is identified from this subscale. This is
+concluded because there’s only one data point before the flattened point
+and that there is only one data point have an eigensvalue above 1 and
+above the parallel. Based on the output, the scale is a good measure of
+exclusion concern as this one factor explained 67.22% of the variance in
+the items, and the factor loadings are all above 0.4 (.69-.83). The item
+with highest factor loading is “I often think about whether other people
+accept me.”
+
+# Reliability test and factor analysis for affiliation (exclusion concern)
 
 ``` r
 Alpha(lab9data, "FSMI", 19:24)
